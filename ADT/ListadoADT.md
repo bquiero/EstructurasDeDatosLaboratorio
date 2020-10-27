@@ -21,7 +21,7 @@ Se solicita implementar:
 - El ADT Stack mediante Listas.
 - El ADT Stack mediante Arreglos.
 
-Se proporciona una plantilla en este repositorio [aquí](StackADT)
+Se proporciona una plantilla en este repositorio [aquí](queue)
 
 2. Data la siguiente interfaz:
 
