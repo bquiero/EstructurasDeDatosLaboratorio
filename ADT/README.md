@@ -21,7 +21,7 @@ Se solicita implementar:
 - El ADT Stack mediante Listas.
 - El ADT Stack mediante Arreglos.
 
-Se proporciona una plantilla en este repositorio [aquí](queue)
+Se proporciona una plantilla en este repositorio en [stack](stack).
 
 2. Data la siguiente interfaz:
 
@@ -39,6 +39,8 @@ class StackADT {
 Se solicita implementar:
 - El ADT Queue mediante Listas.
 - El ADT Queue mediante Arreglos.
+
+Se proporciona una plantilla en este repositorio en [queue](queue).
 
 3. Suponga que la interfaz de StackADT a cambiado:
 
