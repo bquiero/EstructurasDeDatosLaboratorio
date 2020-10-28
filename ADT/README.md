@@ -56,7 +56,7 @@ class StackADT {
 ```
 Implemente el método `element_t pop()` que retorna el último elemento y lo quita del stack.
 
-4. Suponga que no existe el atributo `_size` que guarda el tamaño de un stack (o un array). Implemente la función `int size()`.
+4. Suponga que no existe el atributo `_size` que guarda el tamaño de un stack (o queue). Implemente la función `int size()`.
 
 5. En la implementación de Stack mediante arreglos, se pide implementar la función `push(element_t)`. Cuando el arreglo se llene, esta función debe aumentar el tamaño del arreglo.
   - Indique el tiempo de ejecución de esta operación en función del tamaño de la entrada.
