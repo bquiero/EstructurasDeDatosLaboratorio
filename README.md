@@ -13,6 +13,7 @@ Aunque los ejercicios son independientes del lenguaje de programación utilizado
 Es libre de usar este repositorio haciendo referencia al autor original.
 
 ## Laboratorios
+- [Listado de funciones y estructuras](Function_Structures/README.md)
 - [Listado de Tipos de Datos Abstractos.](ADT/README.md)
     - Stack
     - Queue
