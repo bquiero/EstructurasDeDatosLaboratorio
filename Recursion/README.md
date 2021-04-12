@@ -27,5 +27,4 @@
 
 2. Investigué el problema de las torres de Hanoí. Trate de implementar una solución recursiva en C++.
 
-### Ejercicios Resueltos en clases
 
