@@ -17,13 +17,12 @@
 4. Imprima todos los valores de un arreglo utilizando recursividad.
 5. Sume recursivamente todos los números desde el 1 hasta un n dado.
 6. Implemente recursivamente la función factorial.
+7. El algoritmo de Euclides se utiliza para calcular el máximo común divisor entre dos números. Impleméntelo recursivamente.
 
 
 ### Bonus Track
 
-1. El algoritmo de Euclides se utiliza para calcular el m ́aximo com ́un divisor entre dos números. Impleméntelo recursivamente
-
-2. Sume recursivamente los dígitos de un número entero.
+1. Sume recursivamente los dígitos de un número entero.
 
 2. Investigué el problema de las torres de Hanoí. Trate de implementar una solución recursiva en C++.
 
