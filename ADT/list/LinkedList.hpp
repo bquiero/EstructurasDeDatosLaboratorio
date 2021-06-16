@@ -4,6 +4,7 @@ struct node
 {
     element_t e;
     node *next;
+    node *back;
 };
 
 class LinkedList : public ListADT{
