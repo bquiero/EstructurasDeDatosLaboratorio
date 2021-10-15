@@ -15,7 +15,7 @@ Es libre de usar este repositorio haciendo referencia al autor original.
 ## Laboratorios
 - [Listado de funciones y estructuras](Function_Structures/README.md)
 - [Listado de Recursion](Recursion/README.md)
-- [Listado Asignación Dinámica de Memoria](Dynamic_Memory_Allocation/README.md)
+- [Listado Asignación Dinámica de Memoria](Dynamic_Memory _Allocation/README.md)
 - [Listado de Tipos de Datos Abstractos.](ADT/README.md)
     - Stack
     - Queue
